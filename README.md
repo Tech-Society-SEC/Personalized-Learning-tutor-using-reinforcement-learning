@@ -78,7 +78,3 @@ npm start
       * Set up and connected the MongoDB database, implementing the data submission logic.
       * Established the project's version control system and managed all initial commits.
 
-<!-- end list -->
-
-```
-```
