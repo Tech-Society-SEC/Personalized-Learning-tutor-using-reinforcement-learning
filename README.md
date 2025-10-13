@@ -68,10 +68,7 @@ npm start
 
 ### Proof of Work
 
-<img width="1126" height="643" alt="image" src="https://github.com/user-attachments/assets/881ab0a6-a174-479c-85a1-581716d02f38" />
-
-
-<img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/683a50a4-41dc-4765-98ad-77e3a273bc85" />
+[Need to insert proof of work screenshots for upcoming branches]
 
 
 ### Individual Contributions
