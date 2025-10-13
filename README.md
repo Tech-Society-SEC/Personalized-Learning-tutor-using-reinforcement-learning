@@ -68,7 +68,10 @@ npm start
 
 ### Proof of Work
 
-*[Embed one or more screenshots or a short animated GIF of your new feature working here.]*
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/43c8585d-3f69-48d6-9c95-b2c1e783e716" />
+
+<img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/8430265c-3df8-445a-83fd-10df399b0946" />
+
 
 ### Individual Contributions
 
