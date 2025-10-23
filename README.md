@@ -69,6 +69,10 @@ Task 3 (Full-Stack Debugging & Validation): Debugged and resolved critical full-
 
 Proof of Work
 <img width="1277" height="854" alt="image" src="https://github.com/user-attachments/assets/f6c26ae7-42fe-48ef-9466-43ac53b03bed" />
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/43c8585d-3f69-48d6-9c95-b2c1e783e716" />
+
+<img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/8430265c-3df8-445a-83fd-10df399b0946" />
+
 
 <img width="886" height="501" alt="image" src="https://github.com/user-attachments/assets/df9b521b-49de-4aa1-9597-d3bd9bfdd2bf" />
 
